@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🔭 Full stack developer at Lambda3
+- 🔭 Full stack developer
 - ❤️ React, TypeScript, .NET, C#
 - 🌱 Learning React Native, Flutter and Java
 

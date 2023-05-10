@@ -7,9 +7,9 @@
 </p>
 
 - 🔭 Full-stack developer
-- ❤️ React, TypeScript, .NET, C#
-- 📚 Learning NestJS, NextJS e Tailwind
-- 🌱 To do: learn AngularJS and Bootstrap 
+- ❤️ React, TypeScript, .NET, C#, Node, NestJS
+- 📚 Learning NextJS, Tailwind. Java
+- 🌱 To do: learn AngularJS and Bootstrap
 
 <h3 align="left">Languages and Tools:</h3>
 

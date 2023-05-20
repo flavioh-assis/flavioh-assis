@@ -8,7 +8,7 @@
 
 - 🔭 Full-stack developer
 - ❤️ React, TypeScript, .NET, C#, Node, NestJS
-- 📚 Learning NextJS, Tailwind. Java
+- 📚 Learning NextJS, Tailwind and Java
 - 🌱 To do: learn AngularJS and Bootstrap
 
 <h3 align="left">Languages and Tools:</h3>

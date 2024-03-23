@@ -8,8 +8,8 @@
 
 - 🔭 Full-stack developer
 - ❤️ ASP.NET MVC, .NET, C#, React, TypeScript, Bootstrap, Node, NestJS
-- 📚 Learning Java, Vue.js
-- 🌱 To do: learn Angular, Tailwind
+- 📚 Learning Java, Flutter, Tailwind
+- 🌱 To do: learn Angular
 
 <h3 align="left">Languages and Tools:</h3>
 
